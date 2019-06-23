@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_item">Tap to enter your first item</string>
+    <string name="pop_item_title">Add your shopping list item</string>
+    <string name="shopping_item">Shopping item</string>
+    <string name="shopping_qty">Quantity</string>
+    <string name="save">Save</string>
+</resources>
